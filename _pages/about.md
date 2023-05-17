@@ -40,7 +40,8 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div> -->
 
-- [Invention Patent] - A Method for Indoor Scene Segmentation Based on Large Model Depth Map Generation 
+- [Invention Patent] - A Method for Indoor Scene Segmentation Based on Large Model Depth Map Generation . 
+- Wenjian Qin,**BingXiong**, Yue Peng.
 
 # 🎖 Honors and Awards
 - *2023.06* Awarded title of Outstanding graduates by Wuhan University of Technology
