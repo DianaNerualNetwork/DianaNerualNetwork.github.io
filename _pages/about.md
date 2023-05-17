@@ -43,20 +43,20 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2023.06* Awarded title of Outstanding graduates
-- *2023.06* Awarded title of Undergraduate extracurricular training for outstanding students
+- *2023.06* Awarded title of Outstanding graduates by Wuhan University of Technology
+- *2023.06* Awarded title of Undergraduate extracurricular training for outstanding students by Wuhan University of Technology
 - *2022.12* Awarded title of PaddlePaddle Aistudio 2022 Top Ten Influential Figures by Baidu PaddlePaddle
 - *2022.12* Awarded title of PaddleClub Gold Medal Team Leader by Baidu PaddlePaddle
-- *2022.8*  Awarded Second Prize in the National Finals of the Smart Remote Sensing Interpretation Track of the National College Student Software Design Competition
+- *2022.8*  Awarded Second Prize in the National Finals of the Smart Remote Sensing Interpretation Track of the National College Student Software Design Competition by China Ministry of Industry and Information Technology, Ministry of Education, Jiangsu Provincial People's Government
  - *2022.8* Awarded National Second Prize, Provincial First and Third Prize in the National College Student Smart Car
-Competition（on 2 Competition Group）- July, 2022
+Competition（on 2 Competition Group） by China Teaching Guidance Subcommittee for Automation Majors in Higher Education Institutions of the Ministry of Education
 - *2022.07* Awarded National Second Prize in the National College Student Energy Conservation and Emission Reduction
-Innovation Competition
-- *2022.05* Awarded Provincial Third Prize in Computer Design Competition, Artificial Intelligence Challenge- May, 2022
-- *2022.04* Awarded title of PaddlePaddle Developer Expert
-- *2021.12* Awarded Individual Scholarship
-- *2020.12* Awarded The Third Prize Scholarship
-- *2020.12* Awarded title of Merit Student
+Innovation Competition by China Department of Higher Education 
+- *2022.05* Awarded Provincial Third Prize in Computer Design Competition, Artificial Intelligence Challenge by Hubei Province
+- *2022.04* Awarded title of PaddlePaddle Developer Expert by Baidu PaddlePaddle
+- *2021.12* Awarded Individual Scholarship by Wuhan University of Technology
+- *2020.12* Awarded The Third Prize Scholarship by Wuhan University of Technology
+- *2020.12* Awarded title of Merit Student by Wuhan University of Technology
 
 • 
 • 
