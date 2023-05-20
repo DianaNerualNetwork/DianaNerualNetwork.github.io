@@ -55,7 +55,7 @@ Innovation Competition by China Department of Higher Education
 - *2022.05* Awarded Provincial Third Prize in Computer Design Competition, Artificial Intelligence Challenge by Hubei Province
 - *2022.04* Awarded title of PaddlePaddle Developer Expert by Baidu PaddlePaddle
 - *2021.12* Awarded Individual Scholarship by Wuhan University of Technology
-- *2021.12* Awarded title of Young Senior
+- *2021.4* Awarded title of Young Senior
 - *2020.12* Awarded The Third Prize Scholarship by Wuhan University of Technology
 - *2020.12* Awarded title of Merit Student by Wuhan University of Technology
 
