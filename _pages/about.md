@@ -35,7 +35,7 @@ I graduated from Mechanical and Electrical Engineering  College, Wuhan Universit
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
+</div>- *2023.07 - Present*, [TsingHua University](https://github.com/),offline and remote,Beijing, China.
 </div> -->
 
 - [Invention Patent] - A Method for Indoor Scene Segmentation Based on Large Model Depth Map Generation . 
@@ -78,7 +78,6 @@ Innovation Competition by China Department of Higher Education
 - *2022.04*, 《National College Student Smart Car Competition Training Camp》[video](https://www.bilibili.com/video/BV1sY4y1k74x?p=3&vd_source=98df63c510faa90c37a0bb34b0383d11)
 
 # 💻 Internships
-- *2023.07 - Present*, [TsingHua University](https://github.com/),offline and remote,Beijing, China.
 - *2022.011 - 2023.06*, [SIAT](http://english.siat.ac.cn/), on-site(Intern (Full-time, Contractual)),ShenZhen,China.
 - *2022.010 - 2023.03*, [PaddleDepth](https://github.com/PaddlePaddle/PaddleDepth), remote(Student Developer (Part-time)),China.
 
