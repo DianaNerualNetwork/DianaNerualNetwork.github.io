@@ -63,7 +63,7 @@ Innovation Competition by China Department of Higher Education
 •
 # 📖 Educations
 - *2023.09 - Present*, Master's degree in Electronic Information ,Shenzhen Institute of Advanced Technology，Chinese Academy of Sciences,ShenZhen,China
-- *2019.09 - 2023.06*, Bachelor of Intelligent Manufacturing Engineering ,Wuhan University of Technology, Wuhan,China
+- *2019.09 - 2023.06*, Bachelor of Intelligent Manufacturing Engineering ,Wuhan University of Technology, Wuhan,China,GPA:3.709/5.0
 
 # 💬 Invited Talks
 - *2023.05*, 《PaddlePaddle Assisted Computer Vision College Student Competition》,Shandong agricultural engineering College PaddleClub,AI Day, Shandong,China.
