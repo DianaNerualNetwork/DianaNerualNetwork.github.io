@@ -21,8 +21,14 @@ I an now working on Computational Imaging, Computer Vision ,Medical Imaging.If y
 
 I graduated from Mechanical and Electrical Engineering  College, Wuhan University of Technology (武汉理工大学机电工程学院) with a bachelor’s degree(GPA:3.72/5.0) and from the Department of Computer Science and Technology,SIAT (深圳先进院) with a master’s degree, advised by Wenjian Qin (秦文健). 
 
+# 📖 Educations
+- *2023.09 - 2026.06 *, Master's degree in Electronic Information ,Shenzhen Institute of Advanced Technology，Chinese Academy of Sciences,ShenZhen,China
+- *2019.09 - 2023.06*, Bachelor of Intelligent Manufacturing Engineering ,Wuhan University of Technology, Wuhan,China,GPA:3.72/5.0
+
 # 🔥 News
+
 - *2023.06*: &nbsp;🎉🎉  Awarded title of excellent graduate of Wuhan University of Technology. 
+
 
 # 📝 Publications 
 
@@ -69,12 +75,6 @@ I graduated from Mechanical and Electrical Engineering  College, Wuhan Universit
 - *2020.12* Awarded The Third Prize Scholarship by Wuhan University of Technology
 - *2020.12* Awarded title of Merit Student by Wuhan University of Technology
 
-• 
-• 
-•
-# 📖 Educations
-- *2023.09 - Present*, Master's degree in Electronic Information ,Shenzhen Institute of Advanced Technology，Chinese Academy of Sciences,ShenZhen,China
-- *2019.09 - 2023.06*, Bachelor of Intelligent Manufacturing Engineering ,Wuhan University of Technology, Wuhan,China,GPA:3.72/5.0
 
 # 💬 Invited Talks
 - *2023.05*, 《PaddlePaddle Assisted Computer Vision College Student Competition》,Shandong agricultural engineering College PaddleClub,AI Day, Shandong,China.
