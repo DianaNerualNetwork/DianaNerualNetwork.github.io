@@ -36,7 +36,7 @@ I graduated from Mechanical and Electrical Engineering  College, Wuhan Universit
 
 [Virtual Stainxxx](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Bing Xiong**,Yue Peng, Wenjian Qin^{+}
+**Bing Xiong**,Yue Peng, $Wenjian Qin^{+}$
 
 [**Pdf**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -46,7 +46,7 @@ I graduated from Mechanical and Electrical Engineering  College, Wuhan Universit
 </div>
 
 ## 📚 Medical Image Segmentation
-- <div class="badge">CMMCA2023 WorkShop</div> [Shape-aware diffusion model for tumor segmentation on Gd-EOB-DTPA MRI images of hepatocellular carcinoma](https://github.com),RuiDe WU^{*},Yue Peng^{*},**Bing Xiong**, Wenjian Qin^{+}, 
+- <div class="badge">CMMCA2023 WorkShop</div> [Shape-aware diffusion model for tumor segmentation on Gd-EOB-DTPA MRI images of hepatocellular carcinoma](https://github.com),$RuiDe WU^{*}$,$Yue Peng^{*}$,**Bing Xiong**, $Wenjian Qin^{+}$,
 
 - [Invention Patent] - A Method for Indoor Scene Segmentation Based on Large Model Depth Map Generation . 
     Wenjian Qin,**BingXiong**, Yue Peng.
