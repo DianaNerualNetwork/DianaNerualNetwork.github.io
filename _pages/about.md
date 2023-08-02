@@ -38,7 +38,7 @@ I graduated from Mechanical and Electrical Engineering  College, Wuhan Universit
 
 **Bing Xiong**,Yue Peng, $Wenjian Qin^{+}$
 
-[**Pdf**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) 
+[**CVPR2024**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) | [**Code**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) | [**Pdf**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - First Diffusion model in virtual stain
 - Academic Impact: deep insight on virtual stain
@@ -46,21 +46,22 @@ I graduated from Mechanical and Electrical Engineering  College, Wuhan Universit
 </div>
 
 ## 📚 Medical Image Segmentation
-- <div class="badge">CMMCA2023 WorkShop</div> [Shape-aware diffusion model for tumor segmentation on Gd-EOB-DTPA MRI images of hepatocellular carcinoma](https://github.com),$RuiDe WU^{*}$,$Yue Peng^{*}$,**Bing Xiong**, $Wenjian Qin^{+}$,
+[Shape-aware diffusion model for tumor segmentation on Gd-EOB-DTPA MRI images of hepatocellular carcinoma](https://github.com),RuiDe WU*,Yue Peng*,**Bing Xiong**,Wenjian Qin+,**CMMCA2023 Workshop** \| [**Project**](https://speechresearch.github.io/uwspeech/)
 
+
+## 📚 Patent
 - [Invention Patent] - A Method for Indoor Scene Segmentation Based on Large Model Depth Map Generation . 
     Wenjian Qin,**BingXiong**, Yue Peng.
 
 # 🎖 Honors and Awards
-- *2023.06* Awarded title of Outstanding graduates by Wuhan University of Technology
+- *2023.06* Awarded title of **Outstanding graduates** by Wuhan University of Technology
 - *2023.06* Awarded title of Undergraduate extracurricular training for outstanding students by Wuhan University of Technology
-- *2022.12* Awarded title of PaddlePaddle Aistudio 2022 Top Ten Influential Figures by Baidu PaddlePaddle
-- *2022.12* Awarded title of PaddleClub Gold Medal Team Leader by Baidu PaddlePaddle
+- *2022.12* Awarded title of PaddlePaddle Aistudio 2022 **Top Ten Influential Figures** by Baidu PaddlePaddle
+- *2022.12* Awarded title of PaddleClub **Gold Medal Team Leader** by Baidu PaddlePaddle
+<!-- - *2022.9* Awarded title of PaddleClub **Gold Medal Team Leader** by Baidu PaddlePaddle -->
 - *2022.8*  Awarded Second Prize in the National Finals of the Smart Remote Sensing Interpretation Track of the National College Student Software Design Competition by China Ministry of Industry and Information Technology, Ministry of Education, Jiangsu Provincial People's Government
- - *2022.8* Awarded National Second Prize, Provincial First and Third Prize in the National College Student Smart Car
-Competition（on 2 Competition Group） by China Teaching Guidance Subcommittee for Automation Majors in Higher Education Institutions of the Ministry of Education
-- *2022.07* Awarded National Second Prize in the National College Student Energy Conservation and Emission Reduction
-Innovation Competition by China Department of Higher Education 
+ - *2022.8* Awarded National Second Prize, Provincial First and Third Prize in the National College Student Smart Car Competition（on 2 Competition Group） by China Teaching Guidance Subcommittee for Automation Majors in Higher Education Institutions of the Ministry of Education
+- *2022.07* Awarded National Second Prize in the National College Student Energy Conservation and Emission Reduction Innovation Competition by China Department of Higher Education 
 - *2022.05* Awarded Provincial Third Prize in Computer Design Competition, Artificial Intelligence Challenge by Hubei Province
 - *2022.04* Awarded title of PaddlePaddle Developer Expert by Baidu PaddlePaddle
 - *2021.12* Awarded Individual Scholarship by Wuhan University of Technology
