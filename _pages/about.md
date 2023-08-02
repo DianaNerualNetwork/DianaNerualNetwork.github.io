@@ -26,7 +26,7 @@ I graduated from Mechanical and Electrical Engineering  College, Wuhan Universit
 
 # 📝 Publications 
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -36,7 +36,7 @@ I graduated from Mechanical and Electrical Engineering  College, Wuhan Universit
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>- *2023.07 - Present*, [TsingHua University](https://github.com/),offline and remote,Beijing, China.
-</div> -->
+</div>
 
 - [Invention Patent] - A Method for Indoor Scene Segmentation Based on Large Model Depth Map Generation . 
     Wenjian Qin,**BingXiong**, Yue Peng.
