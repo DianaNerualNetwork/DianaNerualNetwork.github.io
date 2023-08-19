@@ -55,7 +55,7 @@ I graduated from Mechanical and Electrical Engineering  College, Wuhan Universit
 </div>
 
 ## 📚 Medical Image Segmentation
-[Shape-aware diffusion model for tumor segmentation on Gd-EOB-DTPA MRI images of hepatocellular carcinoma](https://github.com),RuiDe WU*,Yue Peng*,**Bing Xiong**,Wenjian Qin+,**CMMCA2023 Workshop** \| [**Project**](https://speechresearch.github.io/uwspeech/)
+[Shape-aware diffusion model for tumor segmentation on Gd-EOB-DTPA MRI images of hepatocellular carcinoma](https://github.com),RuiDe WU *,Yue Peng *,**Bing Xiong**,Wenjian Qin+,**CMMCA2023 Workshop** \| [**Project**](https://speechresearch.github.io/uwspeech/)
 
 
 ## 📚 Patent
