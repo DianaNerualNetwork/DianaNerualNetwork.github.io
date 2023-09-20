@@ -62,8 +62,9 @@ I graduated from Mechanical and Electrical Engineering  College, Wuhan Universit
 
 ## 📚 Patent
 - [Invention Patent] - A Method for Indoor Scene Segmentation Based on Large Model Depth Map Generation . 
-    Wenjian Qin,**BingXiong**, Yue Peng.
-
+    Wenjian Qin,**BingXiong**, Yue Peng.(NO.CN202310728601.3)
+- [Invention Patent] - Method, device, electronic equipment and storage medium for generating color video from depth video.
+    Wenjian Qin,**BingXiong**,Yue Peng.
 # 🎖 Honors and Awards
 - *2023.06* Awarded title of **Outstanding graduates** by Wuhan University of Technology
 - *2023.06* Awarded title of Undergraduate extracurricular training for outstanding students by Wuhan University of Technology
