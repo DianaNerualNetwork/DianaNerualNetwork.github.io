@@ -78,7 +78,7 @@ I graduated from Mechanical and Electrical Engineering  College, Wuhan Universit
   
 - [Invention Patent] - Method, device, electronic equipment and storage medium for generating color video from depth video.
   
-    Wenjian Qin,**BingXiong**,Yue Peng.
+    Wenjian Qin,**BingXiong**,Yue Peng.(**CN202311223346.3**)
   
 # 🎖 Honors and Awards
 - *2023.06* Awarded title of **Outstanding graduates** by Wuhan University of Technology
