@@ -64,7 +64,7 @@ I graduated from Mechanical and Electrical Engineering  College, Wuhan Universit
 
 
 ## 📚 Image Segmentation
-- [**Delivering**] ADSNet:Adaptive gate warped feature fusion for  indoor scene segmentation,**BingXiong $*$**,XiangWen Luo *,Yue Peng,JingKe Zhu,Wenjian Qin+,
+- [**Delivering**] ADSNet:Adaptive gate warped feature fusion for  indoor scene segmentation,**BingXiong,Yue Peng,JingKe Zhu,Wenjian Qin+,
 
 - [**CMMCA2023 Workshop**] Shape-aware diffusion model for tumor segmentation on Gd-EOB-DTPA MRI images of hepatocellular carcinoma,RuiDe WU *,Yue Peng *,**Bing Xiong**,Wenjian Qin+
 <!-- - \| [**Project**](https://speechresearch.github.io/uwspeech/) -->
