@@ -39,7 +39,7 @@ I graduated from Mechanical and Electrical Engineering  College, Wuhan Universit
 ## 📖 microscopic light sheet imaging
 
 
-## 🧑‍🎨 Medical Imaging
+## 🧠 Medical Imaging
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -63,12 +63,12 @@ I graduated from Mechanical and Electrical Engineering  College, Wuhan Universit
 
 
 
-## 📚 Image Segmentation
-- [**Delivering**] ADSNet:Adaptive gate warped feature fusion for  indoor scene segmentation,**BingXiong,Yue Peng,JingKe Zhu,Wenjian Qin+,
+## 💭 Image Segmentation
+- [**Delivering**] ADSNet:Adaptive gate warped feature fusion for  indoor scene segmentation
+    Author(First Author): **BingXiong**,Yue Peng,JingKe Zhu,Wenjian Qin+,
 
 - [**CMMCA2023**] Shape-aware diffusion model for tumor segmentation on Gd-EOB-DTPA MRI images of hepatocellular carcinoma
-
-    RuiDe WU *,Yue Peng *,**Bing Xiong**,Wenjian Qin+ [**Pdf**](https://www.researchgate.net/publication/374540491_Shape-Aware_Diffusion_Model_for_Tumor_Segmentation_on_Gd-EOB-DTPA_MRI_Images_of_Hepatocellular_Carcinoma) 
+    Author(Second Author): RuiDe WU *,Yue Peng *,**Bing Xiong**,Wenjian Qin+ ｜ [**Pdf**](https://www.researchgate.net/publication/374540491_Shape-Aware_Diffusion_Model_for_Tumor_Segmentation_on_Gd-EOB-DTPA_MRI_Images_of_Hepatocellular_Carcinoma) 
 <!-- - \| [**Project**](https://speechresearch.github.io/uwspeech/) -->
 
 
@@ -76,11 +76,11 @@ I graduated from Mechanical and Electrical Engineering  College, Wuhan Universit
 ## 📚 Patent
 - [Invention Patent] - A Method for Indoor Scene Segmentation Based on Large Model Depth Map Generation .
   
-    Wenjian Qin,**BingXiong**, Yue Peng.(**NO.CN202310728601.3**)
+    Wenjian Qin,**BingXiong**, Yue Peng.(**NO.CN202310728601.3**) | **Granted**
   
 - [Invention Patent] - Method, device, electronic equipment and storage medium for generating color video from depth video.
   
-    Wenjian Qin,**BingXiong**,Yue Peng.(**CN202311223346.3**)
+    Wenjian Qin,**BingXiong**,Yue Peng.(**CN202311223346.3**) | **Granted**
   
 # 🎖 Honors and Awards
 - *2023.06* Awarded title of **Outstanding graduates** by Wuhan University of Technology
