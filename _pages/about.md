@@ -70,7 +70,7 @@ I graduated from Mechanical and Electrical Engineering  College, Wuhan Universit
 
 - [**CMMCA2023**] Shape-aware diffusion model for tumor segmentation on Gd-EOB-DTPA MRI images of hepatocellular carcinoma
   
-    **Author**: RuiDe WU *,Yue Peng *,**Bing Xiong**,Wenjian Qin+ ｜ [**Pdf**](https://www.researchgate.net/publication/374540491_Shape-Aware_Diffusion_Model_for_Tumor_Segmentation_on_Gd-EOB-DTPA_MRI_Images_of_Hepatocellular_Carcinoma) ｜  **Second Author**
+    **Author**: RuiDe WU *,Yue Peng *,**Bing Xiong**,Wenjian Qin+ ｜ [**Paper**](https://www.researchgate.net/publication/374540491_Shape-Aware_Diffusion_Model_for_Tumor_Segmentation_on_Gd-EOB-DTPA_MRI_Images_of_Hepatocellular_Carcinoma) ｜  **Second Author**
   
   
 <!-- - \| [**Project**](https://speechresearch.github.io/uwspeech/) -->
