@@ -66,7 +66,7 @@ I graduated from Mechanical and Electrical Engineering  College, Wuhan Universit
 ## 💭 Image Segmentation
 - [**Delivering**] ADSNet:Adaptive gate warped feature fusion for  indoor scene segmentation
   
-    **Author**: **BingXiong**,Yue Peng,JingKe Zhu,Wenjian Qin+ ｜ **First Author**
+    **Author**: **BingXiong**,Yue Peng,JingKe Zhu,Wenjian Qin+ ｜ **First Author** | Funding: the Ministry of Science and Technology’s key research and development program (No. 2020YFC2003800).
 
 - [**CMMCA2023**] Shape-aware diffusion model for tumor segmentation on Gd-EOB-DTPA MRI images of hepatocellular carcinoma
   
