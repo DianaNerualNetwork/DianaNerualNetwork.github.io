@@ -32,12 +32,12 @@ I graduated from Mechanical and Electrical Engineering  College, Wuhan Universit
 # 💻 Internships
 - *2022.011 - 2023.07*, [SIAT](http://english.siat.ac.cn/), on-site(Intern (Full-time, Contractual)),ShenZhen,China.
   
-    📖Contribution: During my internship, I was engaged in a project sponsored by the Guangdong Provincial Department of Science and Technology, with the project grant number No. 2020YFC2003800. My responsibility involved devising multi-object recognition algorithms designed for the visually impaired community. **I was committed to the research of robust and stable RGB-D semantic segmentation algorithms and explored the feasibility of employing StableDiffusion in smart guide glasses using only depth information.**
+    🧑‍💻**Contribution**: During my internship, I was engaged in a project sponsored by the Guangdong Provincial Department of Science and Technology, with the project grant number No. 2020YFC2003800. My responsibility involved devising multi-object recognition algorithms designed for the visually impaired community. **I was committed to the research of robust and stable RGB-D semantic segmentation algorithms and explored the feasibility of employing StableDiffusion in smart guide glasses using only depth information.**
   
-    🎉Achieved: In the course of my internship, I devoted my research to developing an innovative multi-level feature rectification and noise gating model to compensate for the inconsistencies in depth map capturing devices. My work led to the successful submission and publication of a paper in an SCI-indexed journal, the filing of two Chinese invention patents, and one international patent.
+    🎉**Achieved**: In the course of my internship, I devoted my research to developing an innovative multi-level feature rectification and noise gating model to compensate for the inconsistencies in depth map capturing devices. My work led to the successful submission and publication of a paper in an SCI-indexed journal, the filing of two Chinese invention patents, and one international patent.
 - *2022.010 - 2023.07*, Baidu,PaddlePaddle, remote(Student Developer (Part-time)),China.
   
-    📖Contribution: As an integral part of the project team, I contributed significantly to the architectural development of our project framework. My primary responsibility entailed the reproduction of state-of-the-art (SOTA) findings within the depth completion domain, followed by their successful incorporation into our project's main branch.Our project: [PaddleDepth](https://github.com/PaddlePaddle/PaddleDepth) **The project was selected as an outstanding open source project by the annual community summit**
+    🧑‍💻**Contribution**: As an integral part of the project team, I contributed significantly to the architectural development of our project framework. My primary responsibility entailed the reproduction of state-of-the-art (SOTA) findings within the depth completion domain, followed by their successful incorporation into our project's main branch.Our project: [PaddleDepth](https://github.com/PaddlePaddle/PaddleDepth) **The project was selected as an outstanding open source project by the annual community summit**
   
 
 # 📝 Publications 
@@ -73,7 +73,7 @@ I graduated from Mechanical and Electrical Engineering  College, Wuhan Universit
 
 
 
-## 💭 Image Segmentation
+## 🧩 Image Segmentation
 - [**Delivering**] (RGB-D Segmentation)AGWNet:Adaptive gate warped feature fusion for  indoor scene segmentation
   
     **Author**: **BingXiong**,Yue Peng,JingKe Zhu,Wenjian Qin(Correspond author) ｜  **First Author** 
