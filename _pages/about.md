@@ -74,16 +74,18 @@ I graduated from Mechanical and Electrical Engineering  College, Wuhan Universit
 
 
 ## 🧩 Image Segmentation
-- [**Delivering**] (RGB-D Segmentation)AGWNet:Adaptive gate warped feature fusion for  indoor scene segmentation
-  
-    **Author**: **BingXiong**,Yue Peng,JingKe Zhu,Wenjian Qin(Correspond author) ｜  **First Author** 
+- [**DISPLAYS**] (RGB-D Segmentation)AGWNet:Adaptive gate warped feature fusion for  indoor scene segmentation
+
+    <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DISPLAYS</div><img src='images/agwnet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+    **Author**: **BingXiong**,Yue Peng,JingKe Zhu,Wenjian Qin(Correspond author) ｜  **First Author** | Springer JCR Q2 IF:4.2
 
     Funding: the Ministry of Science and Technology’s key research and development program (No. 2020YFC2003800). 
 
 - [**CMMCA2023**] Shape-aware diffusion model for tumor segmentation on Gd-EOB-DTPA MRI images of hepatocellular carcinoma
   
-    **Author**: RuiDe WU *,Yue Peng *,**Bing Xiong**,Wenjian Qin(Correspond author) ｜ [**Paper**](https://www.researchgate.net/publication/374540491_Shape-Aware_Diffusion_Model_for_Tumor_Segmentation_on_Gd-EOB-DTPA_MRI_Images_of_Hepatocellular_Carcinoma) ｜     **Second Author**   
-  
+    **Author**: RuiDe WU *,Yue Peng *,**Bing Xiong**,Wenjian Qin(Correspond author) ｜ [**Paper**](https://www.researchgate.net/publication/374540491_Shape-Aware_Diffusion_Model_for_Tumor_Segmentation_on_Gd-EOB-DTPA_MRI_Images_of_Hepatocellular_Carcinoma) ｜     **Second Author**  | MICCAI Workshop
   
 <!-- - \| [**Project**](https://speechresearch.github.io/uwspeech/) -->
 
