@@ -74,14 +74,18 @@ I graduated from Mechanical and Electrical Engineering  College, Wuhan Universit
 
 
 ## 🧩 Image Segmentation
-- [**DISPLAYS**] (RGB-D Segmentation)AGWNet:Adaptive gate warped feature fusion for  indoor scene segmentation
 
-    <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DISPLAYS</div><img src='images/agwnet.png' alt="sym" width="100%"></div></div>
+ <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DISPLAYS</div><img src='images/agwnet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
+
+- [**DISPLAYS**] (RGB-D Segmentation)AGWNet:Adaptive gate warped feature fusion for  indoor scene segmentation
 
     **Author**: **BingXiong**,Yue Peng,JingKe Zhu,Wenjian Qin(Correspond author) ｜  **First Author** | Springer JCR Q2 IF:4.2
 
     Funding: the Ministry of Science and Technology’s key research and development program (No. 2020YFC2003800). 
+</div>
+</div>
 
 - [**CMMCA2023**] Shape-aware diffusion model for tumor segmentation on Gd-EOB-DTPA MRI images of hepatocellular carcinoma
   
