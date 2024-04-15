@@ -79,7 +79,7 @@ I graduated from Mechanical and Electrical Engineering  College, Wuhan Universit
 <div class='paper-box-text' markdown="1">
 
 
-- [**DISPLAYS**] (RGB-D Segmentation)AGWNet:Adaptive gate warped feature fusion for  indoor scene segmentation
+- [**DISPLAYS**] (RGB-D Segmentation)AGWNet:Attention-Guided Adaptive Shuffle Channle Gate and Warped Feature Network for  Indoor Scene RGB-D Semantic Segmentation
 
     **Author**: **BingXiong**,Yue Peng,JingKe Zhu,Wenjian Qin(Correspond author) ｜  **First Author** | Springer JCR Q2 IF:4.2
 
