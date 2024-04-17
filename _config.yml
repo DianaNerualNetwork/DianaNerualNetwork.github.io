@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "BairdXiong"
-description              : "Studying for a Master's degree in Computer Science at MixLab,SIAT.Focusing on Computational Imaging,Computer Vision. "
+description              : "Master student @SIAT(ShenZhen Advance Institue of Techonolgy)"
 repository               : "DianaNerualNetwork/DianaNerualNetwork.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : https://github.com/DianaNerualNetwork
   google_plus      :
   keybase          :
   instagram        :
