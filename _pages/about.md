@@ -103,9 +103,9 @@ I graduated from Mechanical and Electrical Engineering  College, Wuhan Universit
 
   
 ## Other Services:
-- [**BaiDu PaddlePaddle Developer Expert (PPDE)**]
-- [**Wuhan University of Techonolgy Baidu PaddlePaddle Developer Gruops Leader**]
-- [**Interviewer of Baidu PaddlePaddle Developer Gruops**]
+- **BaiDu PaddlePaddle Developer Expert (PPDE)**
+- **Wuhan University of Techonolgy Baidu PaddlePaddle Developer Gruops Leader**
+- **Interviewer of Baidu PaddlePaddle Developer Gruops**
 
 # 🧑‍💻 Internships
 - *2022.011 - 2023.07*, [SIAT](http://english.siat.ac.cn/), on-site(Intern (Full-time, Contractual)),ShenZhen,China.
