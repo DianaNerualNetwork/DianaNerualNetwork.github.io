@@ -60,7 +60,9 @@ I graduated from Mechanical and Electrical Engineering  College, Wuhan Universit
 
 -->
 
-## 🧠 Digital Pathology
+## 🩻 Medical Image Process
+
+## 🔬 Digital Pathology
 
 
 ## 🧩 Image Segmentation
