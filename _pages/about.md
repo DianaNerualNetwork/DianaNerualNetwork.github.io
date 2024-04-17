@@ -25,21 +25,6 @@ I graduated from Mechanical and Electrical Engineering  College, Wuhan Universit
 
 - *2023.06*: &nbsp;🎉🎉  Awarded title of Outstanding graduate of Wuhan University of Technology. 
 
-# 📖 Educations
-- *2023.09 - 2026.06*, Master's degree in Computer Science and Technology ,Shenzhen Institute of Advanced Technology，Chinese Academy of Sciences,ShenZhen,China
-- *2019.09 - 2023.06*, Bachelor of Intelligent Manufacturing Engineering ,Wuhan University of Technology, Wuhan,China,GPA:3.72/5.0
-
-# 💻 Internships
-- *2022.011 - 2023.07*, [SIAT](http://english.siat.ac.cn/), on-site(Intern (Full-time, Contractual)),ShenZhen,China.
-  
-    🧑‍💻**Contribution**: During my internship, I was engaged in a project sponsored by the Guangdong Provincial Department of Science and Technology, with the project grant number No. 2020YFC2003800. My responsibility involved devising multi-object recognition algorithms designed for the visually impaired community. **I was committed to the research of robust and stable RGB-D semantic segmentation algorithms and explored the feasibility of employing StableDiffusion in smart guide glasses using only depth information.**
-  
-    🎉**Achieved**: In the course of my internship, I devoted my research to developing an innovative multi-level feature rectification and noise gating model to compensate for the inconsistencies in depth map capturing devices. My work led to the successful submission and publication of a paper in an SCI-indexed journal, the filing of two Chinese invention patents, and one international patent.
-- *2022.010 - 2023.07*, Baidu,PaddlePaddle, remote(Student Developer (Part-time)),China.
-  
-    🧑‍💻**Contribution**: As an integral part of the project team, I contributed significantly to the architectural development of our project framework. My primary responsibility entailed the reproduction of state-of-the-art (SOTA) findings within the depth completion domain, followed by their successful incorporation into our project's main branch.Our project: [PaddleDepth](https://github.com/PaddlePaddle/PaddleDepth) **The project was selected as an outstanding open source project by the annual community summit**
-  
-
 # 📝 Publications 
 
 *equal contribution +corresponding author
@@ -71,6 +56,7 @@ I graduated from Mechanical and Electrical Engineering  College, Wuhan Universit
 
 -->
 
+## 🧠 Digital Pathology
 
 
 ## 🧩 Image Segmentation
@@ -81,7 +67,7 @@ I graduated from Mechanical and Electrical Engineering  College, Wuhan Universit
 
 - [**DISPLAYS**] (RGB-D Segmentation)AGWNet:Attention-Guided Adaptive Shuffle Channle Gate and Warped Feature Network for  Indoor Scene RGB-D Semantic Segmentation
 
-    **Author**: **BingXiong**,Yue Peng,JingKe Zhu,Wenjian Qin(Correspond author) ｜  **First Author** | Elsevier JCR Q2 IF:4.2
+    **Author**: **BingXiong**,Yue Peng,JingKe Zhu,JiaGu,ChenZhen,Wenjian Qin(Correspond author) ｜  **First Author** | Elsevier JCR Q2 IF:4.2
 
     Funding: the Ministry of Science and Technology’s key research and development program (No. 2020YFC2003800). 
 </div>
@@ -103,6 +89,20 @@ I graduated from Mechanical and Electrical Engineering  College, Wuhan Universit
 - [Invention Patent] - Method, device, electronic equipment and storage medium for generating color video from depth video.
   
     Wenjian Qin,**BingXiong**,Yue Peng.(**CN202311223346.3**and**PCT/CN2023/141309**) | **Granted**
+
+# 📖 Educations
+- *2023.09 - 2026.06*, Master's degree in Computer Science and Technology ,Shenzhen Institute of Advanced Technology，Chinese Academy of Sciences,ShenZhen,China
+- *2019.09 - 2023.06*, Bachelor of Intelligent Manufacturing Engineering ,Wuhan University of Technology, Wuhan,China,GPA:3.72/5.0
+
+# 💻 Internships
+- *2022.011 - 2023.07*, [SIAT](http://english.siat.ac.cn/), on-site(Intern (Full-time, Contractual)),ShenZhen,China.
+  
+    🧑‍💻**Contribution**: During my internship, I was engaged in a project sponsored by the Guangdong Provincial Department of Science and Technology, with the project grant number No. 2020YFC2003800. My responsibility involved devising multi-object recognition algorithms designed for the visually impaired community. **I was committed to the research of robust and stable RGB-D semantic segmentation algorithms and explored the feasibility of employing StableDiffusion in smart guide glasses using only depth information.**
+  
+    🎉**Achieved**: In the course of my internship, I devoted my research to developing an innovative multi-level feature rectification and noise gating model to compensate for the inconsistencies in depth map capturing devices. My work led to the successful submission and publication of a paper in an SCI-indexed journal, the filing of two Chinese invention patents, and one international patent.
+- *2022.010 - 2023.07*, Baidu,PaddlePaddle, remote(Student Developer (Part-time)),China.
+  
+    🧑‍💻**Contribution**: As an integral part of the project team, I contributed significantly to the architectural development of our project framework. My primary responsibility entailed the reproduction of state-of-the-art (SOTA) findings within the depth completion domain, followed by their successful incorporation into our project's main branch.Our project: [PaddleDepth](https://github.com/PaddlePaddle/PaddleDepth) **The project was selected as an outstanding open source project by the annual community summit**
   
 # 🎖 Honors and Awards
 - *2023.06* Awarded title of **Outstanding graduates** by Wuhan University of Technology
