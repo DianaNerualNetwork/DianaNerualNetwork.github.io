@@ -51,7 +51,11 @@ I graduated from Mechanical and Electrical Engineering  College, Wuhan Universit
 </div>
 </div>
 
+## Conference Reviewer
 
+## Journal Reviewer
+
+## Membership
 
 
 -->
@@ -94,7 +98,16 @@ I graduated from Mechanical and Electrical Engineering  College, Wuhan Universit
 - *2023.09 - 2026.06*, Master's degree in Computer Science and Technology ,Shenzhen Institute of Advanced Technology，Chinese Academy of Sciences,ShenZhen,China
 - *2019.09 - 2023.06*, Bachelor of Intelligent Manufacturing Engineering ,Wuhan University of Technology, Wuhan,China,GPA:3.72/5.0
 
-# 💻 Internships
+# 💻 Services
+
+
+  
+## Other Services:
+- [**BaiDu PaddlePaddle Developer Expert (PPDE)**]
+- [**Wuhan University of Techonolgy Baidu PaddlePaddle Developer Gruops Leader**]
+- [**Interviewer of Baidu PaddlePaddle Developer Gruops**]
+
+# 🧑‍💻 Internships
 - *2022.011 - 2023.07*, [SIAT](http://english.siat.ac.cn/), on-site(Intern (Full-time, Contractual)),ShenZhen,China.
   
     🧑‍💻**Contribution**: During my internship, I was engaged in a project sponsored by the Guangdong Provincial Department of Science and Technology, with the project grant number No. 2020YFC2003800. My responsibility involved devising multi-object recognition algorithms designed for the visually impaired community. **I was committed to the research of robust and stable RGB-D semantic segmentation algorithms and explored the feasibility of employing StableDiffusion in smart guide glasses using only depth information.**
