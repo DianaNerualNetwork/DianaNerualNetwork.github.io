@@ -73,7 +73,10 @@ I graduated from Mechanical and Electrical Engineering  College, Wuhan Universit
 
 - [**DISPLAYS**] AGWNet:Attention-Guided Adaptive Shuffle Channle Gate and Warped Feature Network for  Indoor Scene RGB-D Semantic Segmentation
 
-    **Author**: **BingXiong**,Yue Peng,JingKe Zhu,JiaGu,ChenZhen,Wenjian Qin(Correspond author) ｜  **First Author** | Elsevier JCR Q2 IF:4.3
+    **Author**: **BingXiong**,Yue Peng,JingKe Zhu,JiaGu,ChenZhen,Wenjian Qin(Correspond author) | Elsevier JCR Q2 IF:4.3
+  - This paper propose an RGBD indoor semantic segmentation algorithm based on adaptive attention gating with multilevel feature correction for hole and offset boundary noise in depth maps.
+  - This paper propose to use shuffling and attention mechanisms in the channel direction to reduce the impact of anomalous feature responses, and eventually gated aggregation in the spatial direction.
+  - We designed a pyramidal, cascading feature alignment module using multilevel features to cope with large noise offsets in low-quality depth maps and loss of contextual information due to depth map holes.
 
     Funding: the Ministry of Science and Technology’s key research and development program (No. 2020YFC2003800). 
 </div>
