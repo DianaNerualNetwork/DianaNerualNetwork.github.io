@@ -105,8 +105,8 @@ I graduated from Mechanical and Electrical Engineering  College, Wuhan Universit
 
 ## Membership
 - Student Member of China Computer Federation (CCF)
+  
 ## Teaching Assistant
--
 ## Other Services:
 - **BaiDu PaddlePaddle Developer Expert (PPDE)**                                July 2022
 - **Wuhan University of Techonolgy Baidu PaddlePaddle Developer Gruops Leader**  May,2022-May,2023
