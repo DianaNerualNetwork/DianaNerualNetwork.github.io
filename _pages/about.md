@@ -19,7 +19,12 @@ redirect_from:
 
 I an now working on Computational Imaging, Computer Vision ,Medical Imaging.If you are seeking any form of academic cooperation, please feel free to email me at b.xiong@siat.ac.cn.
 
-I graduated from Mechanical and Electrical Engineering  College, Wuhan University of Technology with a bachelor’s degree and from the Department of Computer Science and Technology,SIAT  with a master’s degree, advised by Wenjian Qin. 
+I graduated from Mechanical and Electrical Engineering  College, Wuhan University of Technology with a bachelor’s degree with the honor of oustanding graduate and Undergraduate extracurricular training for outstanding student in 2023 and from the Department of Computer Science and Technology,SIAT  with a master’s degree, advised by Wenjian Qin. 
+
+My research interests mainly focus on advanced medical logic computing, aiming to develop computer-aided diagnostic solutions related to digital pathology and microscopic cell holographic three-dimensional reconstruction. In particular, I am currently working on the following specific topics:
+- IHC/non-IHC Virtual Stain transfer for digital Pathology
+- Digital holography and its multidimensional imaging applications
+- Segmentation model with multi modalities input
 
 # 🔥 News
 - *2023.06*: &nbsp;🎉🎉  Awarded title of Outstanding graduate of Wuhan University of Technology. 
