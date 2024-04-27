@@ -26,6 +26,8 @@ My research interests mainly focus on advanced medical logic computing, aiming t
 - Digital holography and its multidimensional imaging applications
 - Segmentation model with multi modalities input
 
+I also maintain an open and receptive attitude towards a wide range of topics related to multi-modal foundation model in medical images. Should you have any ideas or topics you wish to discuss, please feel free to reach out to me via email at any time.
+
 # 🔥 News
 - *2023.06*: &nbsp;🎉🎉  Awarded title of Outstanding graduate of Wuhan University of Technology. 
 
