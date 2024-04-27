@@ -19,11 +19,15 @@ redirect_from:
 
 I an now working on Computational Imaging, Computer Vision ,Medical Imaging.If you are seeking any form of academic cooperation, please feel free to email me at b.xiong@siat.ac.cn.
 
-I graduated from Mechanical and Electrical Engineering  College, Wuhan University of Technology (武汉理工大学机电工程学院) with a bachelor’s degree(GPA:3.72/5.0) and from the Department of Computer Science and Technology,SIAT (深圳先进院) with a master’s degree, advised by Wenjian Qin (秦文健). 
+I graduated from Mechanical and Electrical Engineering  College, Wuhan University of Technology with a bachelor’s degree and from the Department of Computer Science and Technology,SIAT  with a master’s degree, advised by Wenjian Qin. 
 
 # 🔥 News
-
 - *2023.06*: &nbsp;🎉🎉  Awarded title of Outstanding graduate of Wuhan University of Technology. 
+
+# 📖 Educations
+- *2023.09 - 2026.06*, Master's degree in Computer Science and Technology ,Shenzhen Institute of Advanced Technology，Chinese Academy of Sciences,ShenZhen,China
+- *2019.09 - 2023.06*, Bachelor of Intelligent Manufacturing Engineering ,Wuhan University of Technology, Wuhan,China,GPA:3.72/5.0
+
 
 # 📝 Publications 
 
@@ -97,9 +101,6 @@ I graduated from Mechanical and Electrical Engineering  College, Wuhan Universit
   
     Wenjian Qin,**BingXiong**,Yue Peng.(**CN202311223346.3**and**PCT/CN2023/141309**) | **Granted**
 
-# 📖 Educations
-- *2023.09 - 2026.06*, Master's degree in Computer Science and Technology ,Shenzhen Institute of Advanced Technology，Chinese Academy of Sciences,ShenZhen,China
-- *2019.09 - 2023.06*, Bachelor of Intelligent Manufacturing Engineering ,Wuhan University of Technology, Wuhan,China,GPA:3.72/5.0
 
 # 💻 Services
 
