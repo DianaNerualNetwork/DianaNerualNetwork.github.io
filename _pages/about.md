@@ -103,12 +103,17 @@ I graduated from Mechanical and Electrical Engineering  College, Wuhan Universit
 
 # 💻 Services
 
-
-  
+## Membership
+- Student Member of China Computer Federation (CCF)
+## Teaching Assistant
+-
 ## Other Services:
-- **BaiDu PaddlePaddle Developer Expert (PPDE)**
-- **Wuhan University of Techonolgy Baidu PaddlePaddle Developer Gruops Leader**
-- **Interviewer of Baidu PaddlePaddle Developer Gruops**
+- **BaiDu PaddlePaddle Developer Expert (PPDE)**                                July 2022
+- **Wuhan University of Techonolgy Baidu PaddlePaddle Developer Gruops Leader**  May,2022-May,2023
+  - Organized events, conducted workshops and delivered workshops reaching over 400 students. 
+- **Interviewer of Baidu PaddlePaddle Developer Gruops**                   Dec,2022-Dec,2023
+- **Member of PaddlePaddle University Technology Sharing Lecturer Group**  Jan,2023-Dec,2023.
+  - Conducted online and offline AI technical  training impacting over 2000 students.   
 
 # 🧑‍💻 Internships
 - *2022.011 - 2023.07*, [SIAT](http://english.siat.ac.cn/), on-site(Intern (Full-time, Contractual)),ShenZhen,China.
