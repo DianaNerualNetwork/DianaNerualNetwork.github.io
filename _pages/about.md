@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 👨‍🎓 Short Bio
-I am now a freshman master student in the school of ShenZhen Institue of Advanced Techonolgy under the supervision of (Wenjian Qin)[https://scholar.google.com/citations?user=QulpzUAAAAAJ&hl=en].Prior to this,I graduated from Mechanical and Electrical Engineering  College, Wuhan University of Technology with a bachelor’s degree with the honor of oustanding graduate and Undergraduate extracurricular training for outstanding student in 2023.
+I am now a freshman master student in the school of ShenZhen Institue of Advanced Techonolgy under the supervision of [Wenjian Qin](https://scholar.google.com/citations?user=QulpzUAAAAAJ&hl=en).Prior to this,I graduated from Mechanical and Electrical Engineering  College, Wuhan University of Technology with a bachelor’s degree with the honor of oustanding graduate and Undergraduate extracurricular training for outstanding student in 2023.
 
 My research interests mainly focus on advanced medical logic computing, aiming to develop computer-aided diagnostic solutions related to digital pathology and microscopic cell holographic three-dimensional reconstruction. In particular, I am currently working on the following specific topics:
 - IHC/non-IHC Virtual Stain transfer for digital Pathology
