@@ -135,7 +135,7 @@ I also maintain an open and receptive attitude towards a wide range of topics re
 # 🎖 Honors and Awards
 - *2023.06* Awarded title of **Outstanding graduates** by Wuhan University of Technology
 - *2023.06* Awarded title of Undergraduate extracurricular training for outstanding students by Wuhan University of Technology
-- *2022.12* Awarded title of PaddlePaddle Aistudio 2022 **Top Ten Influential Figures** by Baidu PaddlePaddle
+- *2022.12* Awarded title of PaddlePaddle 2022 **Top 10 Most Influential People in Aistudio** by Baidu PaddlePaddle
 - *2022.12* Awarded title of PaddleClub **Gold Medal Team Leader** by Baidu PaddlePaddle
 <!-- - *2022.9* Awarded title of PaddleClub **Gold Medal Team Leader** by Baidu PaddlePaddle -->
 - *2022.8*  Awarded Second Prize in the National Finals of the Smart Remote Sensing Interpretation Track of the National College Student Software Design Competition by China Ministry of Industry and Information Technology, Ministry of Education, Jiangsu Provincial People's Government
