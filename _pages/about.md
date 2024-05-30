@@ -114,7 +114,10 @@ I also maintain an open and receptive attitude towards a wide range of topics re
 ## Membership
 - Student Member of China Computer Federation (CCF)
 - Member of Chinese Society of Biomedical Engineering
+  
 ## Teaching Assistant
+- P@SIAT
+
 ## Other Services:
 - **BaiDu PaddlePaddle Developer Expert (PPDE)**                                July 2022
 - **Wuhan University of Techonolgy Baidu PaddlePaddle Developer Gruops Leader**  May,2022-May,2023
