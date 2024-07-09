@@ -96,12 +96,12 @@ I also maintain an open and receptive attitude towards a wide range of topics re
 
 
   
-- [**CMMCA2023**] Shape-aware diffusion model for tumor segmentation on Gd-EOB-DTPA MRI images of hepatocellular carcinoma 
+- ‘CMMCA2023’ Shape-aware diffusion model for tumor segmentation on Gd-EOB-DTPA MRI images of hepatocellular carcinoma 
   
   Author: RuiDe WU *,Yue Peng *,**Bing Xiong** et al.
   
 
-- [**JRRAS**] Liver Vessel MRl lmage Segmentation Based on Dual-Path Diffusion Model 
+- ‘JRRAS’ Liver Vessel MRl lmage Segmentation Based on Dual-Path Diffusion Model 
 
 Author: RuiDe WU ,Yue Peng,**Bing Xiong** et al. </div>
   
