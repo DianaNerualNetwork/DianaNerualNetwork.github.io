@@ -94,23 +94,27 @@ I also maintain an open and receptive attitude towards a wide range of topics re
 </div>
 
 
-<div class="badge">CMMCA2023</div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+    <div class='paper-container'>
+        <div class="badge">CMMCA2023</div>
+        <div class='paper-box-text' markdown="1">
+            - [**Conference**] [Shape-aware diffusion model for tumor segmentation on Gd-EOB-DTPA MRI images of hepatocellular carcinoma](https://www.researchgate.net/publication/374540491_Shape-Aware_Diffusion_Model_for_Tumor_Segmentation_on_Gd-EOB-DTPA_MRI_Images_of_Hepatocellular_Carcinoma)
 
-- [**Conference**] [Shape-aware diffusion model for tumor segmentation on Gd-EOB-DTPA MRI images of hepatocellular carcinoma](https://www.researchgate.net/publication/374540491_Shape-Aware_Diffusion_Model_for_Tumor_Segmentation_on_Gd-EOB-DTPA_MRI_Images_of_Hepatocellular_Carcinoma) 
-
-  **Author**: RuiDe WU *,Yue Peng *,**Bing Xiong** et al.
-  
+              **Author**: RuiDe WU *, Yue Peng *, **Bing Xiong**, Wenjian Qin
+        </div>
+    </div>
 </div>
 
-<div class="badge">JRRAS</div>
-<div class='paper-box-text' markdown="1">
-  
-- [**Jounral**] Liver Vessel MRl lmage Segmentation Based on Dual-Path Diffusion Model
-  
-    **Author**: RuiDe WU ,Yue Peng,**Bing Xiong** et al.
-  
-  </div>
+<div class='paper-box'>
+    <div class='paper-container'>
+        <div class="badge">JRRAS</div>
+        <div class='paper-box-text' markdown="1">
+            - [**Journal**] Liver Vessel MRI Image Segmentation Based on Dual-Path Diffusion Model
+
+              **Author**: RuiDe WU, Yue Peng, **Bing Xiong** et al.
+        </div>
+    </div>
+</div>
   
 <!-- - \| [**Project**](https://speechresearch.github.io/uwspeech/) -->
 
