@@ -94,7 +94,7 @@ I also maintain an open and receptive attitude towards a wide range of topics re
 </div>
 
 
-<div class="badge">CMMCA2023</div></div><div class='paper-box-text' markdown="1"> `[Shape-aware diffusion model for tumor segmentation on Gd-EOB-DTPA MRI images of hepatocellular carcinoma](https://www.researchgate.net/publication/374540491_Shape-Aware_Diffusion_Model_for_Tumor_Segmentation_on_Gd-EOB-DTPA_MRI_Images_of_Hepatocellular_Carcinoma) **Author**: RuiDe WU *,Yue Peng *,**Bing Xiong**,Wenjian Qin  </div>
+<div class="badge">CMMCA2023</div></div><div class='paper-box-text' markdown="1"> [Shape-aware diffusion model for tumor segmentation on Gd-EOB-DTPA MRI images of hepatocellular carcinoma](https://www.researchgate.net/publication/374540491_Shape-Aware_Diffusion_Model_for_Tumor_Segmentation_on_Gd-EOB-DTPA_MRI_Images_of_Hepatocellular_Carcinoma) **Author**: RuiDe WU *,Yue Peng *,**Bing Xiong** et al.  </div>
 
 
 
