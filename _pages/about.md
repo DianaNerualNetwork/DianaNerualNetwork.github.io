@@ -71,13 +71,11 @@ I also maintain an open and receptive attitude towards a wide range of topics re
 
 -->
 
-## 🩻 Medical Image Process
-
-- `JRRAS` Liver Vessel MRl lmage Segmentation Based on Dual-Path Diffusion Model
-  
-    **Author**: RuiDe WU ,Yue Peng ,...,**Bing Xiong**,Wenjian Qin  | **Other author** | JCR Q2 IF:1.7
 
 ## 🔬 Digital Pathology
+
+
+## 🩻 Medical Image Process
 
 
 ## 🧩 Image Segmentation
@@ -98,6 +96,11 @@ I also maintain an open and receptive attitude towards a wide range of topics re
 - `CMMCA2023` [Shape-aware diffusion model for tumor segmentation on Gd-EOB-DTPA MRI images of hepatocellular carcinoma](https://www.researchgate.net/publication/374540491_Shape-Aware_Diffusion_Model_for_Tumor_Segmentation_on_Gd-EOB-DTPA_MRI_Images_of_Hepatocellular_Carcinoma)
   
     **Author**: RuiDe WU *,Yue Peng *,**Bing Xiong**,Wenjian Qin | **Other author** | MICCAI Workshop
+
+- `JRRAS` Liver Vessel MRl lmage Segmentation Based on Dual-Path Diffusion Model
+  
+    **Author**: RuiDe WU ,Yue Peng ,...,**Bing Xiong**,Wenjian Qin  | **Other author** | JCR Q2 IF:1.7
+  
   
 <!-- - \| [**Project**](https://speechresearch.github.io/uwspeech/) -->
 
