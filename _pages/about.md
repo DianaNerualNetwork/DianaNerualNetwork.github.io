@@ -104,6 +104,7 @@ I also maintain an open and receptive attitude towards a wide range of topics re
 
 <div class="badge">JRRAS</div>
 <div class='paper-box-text' markdown="1">
+  
 - [**Jounral**] Liver Vessel MRl lmage Segmentation Based on Dual-Path Diffusion Model
   
     **Author**: RuiDe WU ,Yue Peng,**Bing Xiong** et al.  
