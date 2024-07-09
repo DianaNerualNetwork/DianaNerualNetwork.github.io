@@ -84,7 +84,7 @@ I also maintain an open and receptive attitude towards a wide range of topics re
 <div class='paper-box-text' markdown="1">
 
 
-- [**DISPLAYS**] AGWNet:Attention-Guided Adaptive Shuffle Channle Gate and Warped Feature Network for  Indoor Scene RGB-D Semantic Segmentation
+- [**Jounral**] AGWNet:Attention-Guided Adaptive Shuffle Channle Gate and Warped Feature Network for  Indoor Scene RGB-D Semantic Segmentation
 
     **Author**: **BingXiong**,Yue Peng et al. | [paper](https://www.sciencedirect.com/science/article/abs/pii/S0141938224000945)
   - This paper highlights an advanced RGBD indoor semantic segmentation algorithm that integrates channel shuffling, attention mechanisms, and pyramidal feature alignment to effectively correct multi-level noise and preserve context in low-quality depth maps.
@@ -94,11 +94,16 @@ I also maintain an open and receptive attitude towards a wide range of topics re
 </div>
 
 
-<div class="badge">CMMCA2023</div> [Shape-aware diffusion model for tumor segmentation on Gd-EOB-DTPA MRI images of hepatocellular carcinoma](https://www.researchgate.net/publication/374540491_Shape-Aware_Diffusion_Model_for_Tumor_Segmentation_on_Gd-EOB-DTPA_MRI_Images_of_Hepatocellular_Carcinoma) **Author**: RuiDe WU *,Yue Peng *,**Bing Xiong** et al.  
+<div class="badge">CMMCA2023</div>
+
+- [**Conference**] [Shape-aware diffusion model for tumor segmentation on Gd-EOB-DTPA MRI images of hepatocellular carcinoma](https://www.researchgate.net/publication/374540491_Shape-Aware_Diffusion_Model_for_Tumor_Segmentation_on_Gd-EOB-DTPA_MRI_Images_of_Hepatocellular_Carcinoma) 
+
+  **Author**: RuiDe WU *,Yue Peng *,**Bing Xiong** et al.  
 
 
+<div class="badge">JRRAS</div>
 
-- `JRRAS` Liver Vessel MRl lmage Segmentation Based on Dual-Path Diffusion Model
+- [**Jounral**] Liver Vessel MRl lmage Segmentation Based on Dual-Path Diffusion Model
   
     **Author**: RuiDe WU ,Yue Peng,**Bing Xiong** et al.  
   
