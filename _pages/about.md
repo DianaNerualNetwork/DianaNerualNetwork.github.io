@@ -74,6 +74,19 @@ I also maintain an open and receptive attitude towards a wide range of topics re
 
 ## 🔬 Digital Pathology
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2025</div><img src='images/stainprompt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+[StainPromptInversion](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+**Bing Xiong**,Yue Peng, RanRanZhang,Fuqiang Chen,JiaYe He, Wenjian Qin+
+
+[**AAAI2025**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) | [**Code**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) | [**Pdf**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) 
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We are the first to handle the task of  virtual staining  using unpaired data with  a   formulation of pretrained diffusion models. We use a single pre-trained model on unpaired multi-domain data to achieve high structural consistency in  virtual staining using diffusion model.
+</div>
+</div>
 
 ## 🩻 Medical Image Process
 
@@ -165,6 +178,7 @@ Author: RuiDe WU ,Yue Peng,**Bing Xiong** et al.  | [paper](https://www.scienced
 
 
 # 💬 Invited Talks
+- *2024.09*, oral talk,2024 China Biomedical Engineering Conference & Medical Innovatation, ShenZhen
 - *2023.05*, 《PaddlePaddle Assisted Computer Vision College Student Competition》,Shandong agricultural engineering College PaddleClub,AI Day, Shandong,China.
 - *2023.04*, 《The Influence and Application of Big Models on Undergraduate Competitions》,Huazhong University of Science and Technology  PaddleClub,AI Day,DataWhale live, Wuhan,China.
 - *2023.04*, 《The Impact of Big Models on Undergraduate Competitions》,Jianghan University PaddleClub,AI Day, Wuhan,China.
