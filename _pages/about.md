@@ -82,7 +82,7 @@ I also maintain an open and receptive attitude towards a wide range of topics re
 
 **Bing Xiong**,Yue Peng, RanRanZhang,Fuqiang Chen,JiaYe He, Wenjian Qin+
 
-[**AAAI2025**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) | [**Code**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) | [**Pdf**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) 
+[**AAAI2025**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) | [**Code**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) | [**Pdf**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) | Conference
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We are the first to handle the task of  virtual staining  using unpaired data with  a   formulation of pretrained diffusion models. We use a single pre-trained model on unpaired multi-domain data to achieve high structural consistency in  virtual staining using diffusion model.
 </div>
@@ -99,7 +99,7 @@ I also maintain an open and receptive attitude towards a wide range of topics re
 
 - [**DISPLAYS**] AGWNet:Attention-Guided Adaptive Shuffle Channle Gate and Warped Feature Network for  Indoor Scene RGB-D Semantic Segmentation
 
-    **Author**: **BingXiong**,Yue Peng et al. | [paper](https://www.sciencedirect.com/science/article/abs/pii/S0141938224000945)
+    **Author**: **BingXiong**,Yue Peng et al. | [paper](https://www.sciencedirect.com/science/article/abs/pii/S0141938224000945) | Journal
   - This paper highlights an advanced RGBD indoor semantic segmentation algorithm that integrates channel shuffling, attention mechanisms, and pyramidal feature alignment to effectively correct multi-level noise and preserve context in low-quality depth maps.
 
     Funding: the Ministry of Science and Technology’s key research and development program (No. 2020YFC2003800). 
@@ -111,12 +111,12 @@ I also maintain an open and receptive attitude towards a wide range of topics re
   
 - ``CMMCA2023`` Shape-aware diffusion model for tumor segmentation on Gd-EOB-DTPA MRI images of hepatocellular carcinoma 
   
-  Author: RuiDe WU *,Yue Peng *,**Bing Xiong** et al. | [paper](https://link.springer.com/chapter/10.1007/978-3-031-45087-7_14)
+  Author: RuiDe WU *,Yue Peng *,**Bing Xiong** et al. | [paper](https://link.springer.com/chapter/10.1007/978-3-031-45087-7_14) | Conference
   
 
 - ``JRRAS`` Liver Vessel MRl lmage Segmentation Based on Dual-Path Diffusion Model 
 
-Author: RuiDe WU ,Yue Peng,**Bing Xiong** et al.  | [paper](https://www.sciencedirect.com/science/article/pii/S1687850724002097)
+Author: RuiDe WU ,Yue Peng,**Bing Xiong** et al.  | [paper](https://www.sciencedirect.com/science/article/pii/S1687850724002097) | Journal 
   
 <!-- - \| [**Project**](https://speechresearch.github.io/uwspeech/) -->
 
@@ -129,7 +129,7 @@ Author: RuiDe WU ,Yue Peng,**Bing Xiong** et al.  | [paper](https://www.scienced
   
 - [Invention Patent] - Method, device, electronic equipment and storage medium for generating color video from depth video.
   
-    Wenjian Qin,**BingXiong**,Yue Peng.(**CN202311223346.3**and**PCT/CN2023/141309**) | **Granted**
+    Wenjian Qin,**BingXiong**,Yue Peng.(**CN202311223346.3**) | **Granted**
 
 
 # 💻 Services
