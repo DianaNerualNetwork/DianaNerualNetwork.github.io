@@ -78,7 +78,7 @@ I also maintain an open and receptive attitude towards a wide range of topics re
 <div class='paper-box-text' markdown="1">
 
 
-[StainPromptInversion](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[StainPromptInversion:Unpaired Multi-Domain Histopathology Virtual Staining using Dual Path Prompted Inversion](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **Bing Xiong**,Yue Peng, RanRanZhang,Fuqiang Chen,JiaYe He, Wenjian Qin+
 
