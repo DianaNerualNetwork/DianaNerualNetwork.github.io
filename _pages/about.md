@@ -32,7 +32,7 @@ I also maintain an open and receptive attitude towards a wide range of topics re
 - *2023.06*: &nbsp;🎉🎉  Awarded title of Outstanding graduate of Wuhan University of Technology. 
 
 # 📖 Educations
-- *2023.09 - 2026.06*, Master's degree in Computer Science and Technology ,Shenzhen Institute of Advanced Technology，Chinese Academy of Sciences,ShenZhen,China
+- *2023.09 - 2026.06*, Master's degree in Computer Science and Technology ,Shenzhen Institute of Advanced Technology，Chinese Academy of Sciences,ShenZhen,China,GPA:3.77/4.0
 - *2019.09 - 2023.06*, Bachelor of Intelligent Manufacturing Engineering ,Wuhan University of Technology, Wuhan,China,GPA:3.72/5.0
 
 
