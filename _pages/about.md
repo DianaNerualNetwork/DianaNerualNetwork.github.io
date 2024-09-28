@@ -139,7 +139,7 @@ Author: RuiDe WU ,Yue Peng,**Bing Xiong** et al.  | [paper](https://www.scienced
 
 ## Membership
 - Student Member of China Computer Federation (CCF)
-- Member of Chinese Society of Biomedical Engineering
+- Student Member of Chinese Society of Biomedical Engineering
   
 ## Teaching Assistant
 - P@SIAT
