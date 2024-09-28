@@ -134,6 +134,9 @@ Author: RuiDe WU ,Yue Peng,**Bing Xiong** et al.  | [paper](https://www.scienced
 
 # 💻 Services
 
+## Conference Reviewers
+- Conference on Neural Information Processing Systems(NeurIPS) 2024 Workshop AIM-FM
+
 ## Membership
 - Student Member of China Computer Federation (CCF)
 - Member of Chinese Society of Biomedical Engineering
