@@ -28,8 +28,8 @@ My research interests mainly focus on advanced medical logic computing, aiming t
 I also maintain an open and receptive attitude towards a wide range of topics related to multi-modal foundation model in medical images. Should you have any ideas or topics you wish to discuss, please feel free to reach out to me via email at any time.
 
 # 🔥 News
+- *2024.11*: &nbsp;🎉🎉  Awarded 2024 national scholarship of UCAS. 
 - *2024.05*: &nbsp;🎉🎉  Awarded title of Merit Student of UCAS. 
-- *2023.06*: &nbsp;🎉🎉  Awarded title of Outstanding graduate of Wuhan University of Technology. 
 
 # 📖 Educations
 - *2023.09 - 2026.06*, Master's degree in Computer Science and Technology ,Shenzhen Institute of Advanced Technology，Chinese Academy of Sciences,ShenZhen,China,GPA:3.77/4.0
@@ -163,6 +163,7 @@ Author: RuiDe WU ,Yue Peng,**Bing Xiong** et al.  | [paper](https://www.scienced
     🧑‍💻**Contribution**: As an integral part of the project team, I contributed significantly to the architectural development of our project framework. My primary responsibility entailed the reproduction of state-of-the-art (SOTA) findings within the depth completion domain, followed by their successful incorporation into our project's main branch.Our project: [PaddleDepth](https://github.com/PaddlePaddle/PaddleDepth) **The project was selected as an outstanding open source project by the annual community summit**
   
 # 🎖 Honors and Awards
+- *2024.11* Awarded  **2024 National Scholarship** by UCAS
 - *2024.05* Awarded title of **Merit Student** by UCAS
 - *2023.06* Awarded title of **Outstanding graduates** by Wuhan University of Technology
 - *2023.06* Awarded title of Undergraduate extracurricular training for outstanding students by Wuhan University of Technology
