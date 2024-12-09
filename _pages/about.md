@@ -99,7 +99,7 @@ I also maintain an open and receptive attitude towards a wide range of topics re
 
 - [**DISPLAYS**] AGWNet:Attention-Guided Adaptive Shuffle Channle Gate and Warped Feature Network for  Indoor Scene RGB-D Semantic Segmentation
 
-    **Author**: **BingXiong**,Yue Peng et al. | [paper](https://www.sciencedirect.com/science/article/abs/pii/S0141938224000945) | Journal
+    **Author**: **BingXiong**,Yue Peng et al. | [paper](https://www.sciencedirect.com/science/article/abs/pii/S0141938224000945) | Journal JCR Q1 IF:3.7
   - This paper highlights an advanced RGBD indoor semantic segmentation algorithm that integrates channel shuffling, attention mechanisms, and pyramidal feature alignment to effectively correct multi-level noise and preserve context in low-quality depth maps.
 
     Funding: the Ministry of Science and Technology’s key research and development program (No. 2020YFC2003800). 
@@ -116,7 +116,7 @@ I also maintain an open and receptive attitude towards a wide range of topics re
 
 - ``JRRAS`` Liver Vessel MRl lmage Segmentation Based on Dual-Path Diffusion Model 
 
-Author: RuiDe WU ,Yue Peng,**Bing Xiong** et al.  | [paper](https://www.sciencedirect.com/science/article/pii/S1687850724002097) | Journal 
+Author: RuiDe WU ,Yue Peng,**Bing Xiong** et al.  | [paper](https://www.sciencedirect.com/science/article/pii/S1687850724002097) | Journal JCR Q2 IF:1.7 
   
 <!-- - \| [**Project**](https://speechresearch.github.io/uwspeech/) -->
 
