@@ -74,7 +74,7 @@ I also maintain an open and receptive attitude towards a wide range of topics re
 
 ## 🔬 Digital Pathology
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2025</div><img src='images/stainprompt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2025(oral)</div><img src='images/stainprompt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
