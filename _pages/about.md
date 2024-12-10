@@ -74,7 +74,7 @@ I also maintain an open and receptive attitude towards a wide range of topics re
 
 ## 🔬 Digital Pathology
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2025(oral)</div><img src='images/stainprompt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2025</div><img src='images/stainprompt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -82,7 +82,7 @@ I also maintain an open and receptive attitude towards a wide range of topics re
 
 **Bing Xiong**,Yue Peng, RanRanZhang,Fuqiang Chen,JiaYe He, Wenjian Qin+
 
-[**oral presentation**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) | [**Code**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) | [**Pdf**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) | Conference
+**poster**| [**Code**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) | [**Pdf**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) | Conference
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We are the first to handle the task of  virtual staining  using unpaired data with  a   formulation of pretrained diffusion models. We use a single pre-trained model on unpaired multi-domain data to achieve high structural consistency in  virtual staining using diffusion model.
 </div>
