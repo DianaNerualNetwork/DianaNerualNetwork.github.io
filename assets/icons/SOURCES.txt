@@ -1,0 +1,11 @@
+Sidebar icons from Font Awesome Free 6.7.2 by Fonticons, Inc.
+Downloaded unchanged from the official FortAwesome/Font-Awesome repository.
+SVG copyright and license comments are retained.
+Icons: CC BY 4.0. See LICENSE.txt for the complete upstream licensing terms.
+
+location-dot.svg: https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/solid/location-dot.svg
+building-columns.svg: https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/solid/building-columns.svg
+envelope.svg: https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/solid/envelope.svg
+google-scholar.svg: https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/google-scholar.svg
+github.svg: https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/svgs/brands/github.svg
+LICENSE.txt: https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.7.2/LICENSE.txt
